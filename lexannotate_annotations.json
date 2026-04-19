@@ -1,0 +1,38 @@
+[
+  {
+    "concept": "GOVERNING_LAW",
+    "span": "This Agreement is governed by the laws of the State of Delaware.",
+    "start_char": 0,
+    "rationale": "This clause specifies that Delaware law governs the contract interpretation."
+  },
+  {
+    "concept": "TERMINATION",
+    "span": "Either party may terminate this Agreement upon 30 days written notice. Immediate termination is permitted in the event of a material breach that remains uncured for 15 days after notice.",
+    "start_char": 65,
+    "rationale": "This clause defines the conditions under which either party can end the contract."
+  },
+  {
+    "concept": "INDEMNITY",
+    "span": "Each party agrees to indemnify and hold harmless the other party from any claims, damages, or liabilities arising from its own negligence or wilful misconduct.",
+    "start_char": 245,
+    "rationale": "This clause requires each party to compensate the other for losses arising from their own negligence or misconduct."
+  },
+  {
+    "concept": "LIMITATION_OF_LIABILITY",
+    "span": "In no event shall either party's liability exceed the total fees paid in the twelve months preceding the claim. Neither party shall be liable for indirect, incidental, or consequential damages.",
+    "start_char": 400,
+    "rationale": "This clause caps the maximum liability and excludes certain types of damages."
+  },
+  {
+    "concept": "CONFIDENTIALITY",
+    "span": "All proprietary information disclosed under this agreement shall be kept confidential and not disclosed to third parties without prior written consent.",
+    "start_char": 595,
+    "rationale": "This clause establishes obligations to keep disclosed information private."
+  },
+  {
+    "concept": "PAYMENT_TERMS",
+    "span": "Payment is due within 30 days of invoice date. Late payments will accrue interest at 1.5% per month.",
+    "start_char": 745,
+    "rationale": "This clause specifies payment schedules and conditions including interest on late payments."
+  }
+]
